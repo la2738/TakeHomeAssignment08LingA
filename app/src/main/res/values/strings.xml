@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment08-LingA</string>
+
+    <string name="build_cattree">How To Build A Cat Tree</string>
+    <string name="clean_burnt_pan">How To Clean A Burnt Pan</string>
+    <string name="fix_clogged_sink">How To Fix A Clogged Sink</string>
+    <string name="fix_door_handler">How To Fix Door Handlers</string>
+    <string name="build_deck">How To Build A Deck </string>
+
+    <string name="true_button">Great choice for house owner!</string>
+    <string name="false_button">Let us do it!</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+
+
+    <string name="level_beginner">Suggested Level: Beginner</string>
+    <string name="level_intermediate">Suggested Level: Intermediate</string>
+    <string name="level_advanced">Suggested Level: Advanced</string>
+    <string name="time_very_short">Estimated Time: Under 1 hours</string>
+    <string name="time_short">Estimated Time: Under 3 hours</string>
+    <string name="time_long">Estimated Time: More than 3 days</string>
+
+    <string name="tool_cattree">Required tools: scissors, sand paper, super glue or hot glue, thick cardboard, velvet fabric</string>
+    <string name="tool_burnt_pan">Required tools: white vinegar, baking soda, hot water</string>
+    <string name="tool_clogged_sink">Required tools: plunger, salt, hot water</string>
+    <string name="tool_door_handler">Required tools: screwdriver, Replacement part(s)</string>
+    <string name="tool_build_deck">Required tools: 2 x 6 Pressure-treated beams, Concrete deck piers, 48 in. Level, Tape measure, Miter saw,Gravel, Weed barrier, 2 x 4 Douglas Fir wood, Wood planer,Paint roller and tray, Thompson’s Water Seal,Outdoor deck screws, Tile spacers, Impact driver, Jig saw,Weatherproofing Stain and Sealer,Paint edger</string>
+
+</resources>
